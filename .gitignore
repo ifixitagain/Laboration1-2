@@ -1,0 +1,3 @@
+# Ignore gcc binaries
+*.exe
+*.out
